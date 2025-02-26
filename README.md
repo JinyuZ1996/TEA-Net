@@ -1,4 +1,4 @@
-# TEA-Net
+# TEA-Net (Tensorflow)
 
 <p align="left">
   <img src='https://img.shields.io/badge/python-3.8.18-blue'>
